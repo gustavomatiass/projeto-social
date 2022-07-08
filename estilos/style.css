@@ -39,7 +39,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 267px;
     height: 471px;
 }
 
@@ -59,4 +59,15 @@ section#sociais {
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.229);
     transition: transform 0.3s, border 0.5s;
+}
+
+#cente {
+    text-align: center;
+    margin-top: 225px;
+    position: relative;
+}
+#cente a {
+    color: white;
+    opacity: 0;
+    font-size: 3em;
 }
